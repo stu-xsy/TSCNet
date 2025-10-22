@@ -1,8 +1,8 @@
-# VSCNet
+# TSCNet
 
 ## Overview
 
-This project includes source codes and examples of VSCNet. 
+This project includes source codes and examples of TSCNet. 
 
 ## Environment
 
