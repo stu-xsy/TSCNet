@@ -1,0 +1,2 @@
+1.第一阶段运行main_cifar_visual_hcrl_VPT.py
+2.第二阶段运行main_cifar_visual_CLBC.py
